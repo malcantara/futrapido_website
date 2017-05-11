@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "/"
+baseurl = "https://futrapidoatlaco.netlify.com"
 title = "Club de Fútbol Rápido Atlacomulco"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
